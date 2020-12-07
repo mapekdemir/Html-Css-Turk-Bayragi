@@ -1,0 +1,56 @@
+/*@yazilimci_abi*/
+body {
+  background:#f7f7f7
+}
+.kapsa {
+  width:300px;
+  margin:50px auto 0;
+}
+.bayrak {
+  height:200px;
+  width:300px;
+  background: #e30a17;
+  position: relative;
+}
+.ay {
+  position:absolute;
+  left:50px;
+  top:50px;
+  border-radius: 50%;
+  box-shadow: inset 0px -15px 0px 10px #fff;
+  height: 100px;
+  width: 100px;
+  transform: rotate(90deg);
+}
+.yildiz {
+  position: absolute;
+  margin-left: 0;
+  left:150px;
+  top:75px;
+  transform: rotate(-15deg);
+}
+
+.yildiz div {
+  border-bottom: 25px solid white;
+  border-left: 12.5px solid transparent;
+  border-right: 12.5px solid transparent;
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  transform-origin: 50% 100%;
+}
+.yildiz div:nth-child(1) {
+  transform: rotate(0deg);
+}
+.yildiz div:nth-child(2) {
+  transform: rotate(72deg);
+}
+.yildiz div:nth-child(3) {
+  transform: rotate(144deg);
+}
+.yildiz div:nth-child(4) {
+  transform: rotate(216deg);
+}
+.yildiz div:nth-child(5) {
+  transform: rotate(288deg);
+}
