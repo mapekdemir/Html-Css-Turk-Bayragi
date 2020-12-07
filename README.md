@@ -7,4 +7,4 @@
 <br/>
 
 ## ScreenShot
-<img src="screenshots1.jpg"/>
+<img src="screenshots1.jpg" width="640" height="333.5"/>
