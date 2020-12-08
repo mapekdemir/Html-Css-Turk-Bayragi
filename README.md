@@ -7,4 +7,4 @@
 <br>
 
 ## Screen Shot
-<img width="30px" scr= "https://raw.githubusercontent.com/mapekdemir/Html-Css-Turk-Bayragi/main/ScreenShot/screenshot1.jpg" > 
+<img width="45px" scr="https://raw.githubusercontent.com/mapekdemir/Html-Css-Turk-Bayragi/main/ScreenShot/screenshot1.jpg"> 
