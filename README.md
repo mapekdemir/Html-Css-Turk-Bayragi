@@ -7,4 +7,4 @@
 <br>
 
 ## Screen Shot
-![ss](https://raw.githubusercontent.com/mapekdemir/Html-Css-Turk-Bayragi/main/ScreenShot/screenshot1.jpg
+![ss](https://raw.githubusercontent.com/mapekdemir/Html-Css-Turk-Bayragi/main/ScreenShot/screenshot1.jpg)
